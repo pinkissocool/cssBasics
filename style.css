@@ -1,0 +1,18 @@
+table{
+    border-collapse:collapse;
+    text-indent: 5px;
+    
+    
+}
+
+tr:nth-child(odd){
+    background-color: #c4dcf3;
+}
+
+th{
+    background-color: #427fef;
+    color:white;
+    text-align: left;
+}
+
+/*Took 20 minutes, trying to get rid of the borders between the columns was a little bit hard, but I was able to minimize the amount of code in the css file.
